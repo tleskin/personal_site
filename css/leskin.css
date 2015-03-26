@@ -1,0 +1,29 @@
+h1 { color:white; font-size:18pt; font-weight:normal; 
+    font-family:sans-serif ; 	
+}
+
+h2 { color:white; font-size:10pt; font-weight:normal; 
+    font-family:sans-serif ; 	
+}
+
+html {
+  height: 100%;
+margin:0 auto;
+}
+
+.center
+{
+margin:0 auto;
+
+width:1000px;
+}
+
+
+table{ margin:0 auto;}
+
+#object{
+ position:fixed;
+ top:-15px;
+ left:-10px;
+ z-index:5;
+}
